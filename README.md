@@ -8,4 +8,4 @@ to connect to mongo use following command
 mongo -u admin -p --authenticationDatabase admin
 password for above creds is admin54321-
 
-
+EDIT MADE
